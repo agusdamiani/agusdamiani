@@ -15,3 +15,4 @@ Tech Stack Data Science
 - 🌐   Numpy | Pandas | Seaborn | Scikit-Learn
 - 🔧   Jupyter Lab
 
+- 🤝🏻  Connect with me www.linkedin.com/in/agusdamiani 
