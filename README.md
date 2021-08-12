@@ -2,7 +2,7 @@
 
 👨🏻‍💻  About Me
 
-🤔   Exploring new technologies and programming. SAP Consultant.
+🤔  Exploring new technologies and programming. SAP Consultant.
 
 🎓   Systems & Bioinformatics degree
 
